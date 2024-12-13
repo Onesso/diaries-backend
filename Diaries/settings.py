@@ -55,7 +55,7 @@ MIDDLEWARE = [
     
 ]
 
-# APPEND_SLASH = False
+#APPEND_SLASH = False
 ROOT_URLCONF = 'Diaries.urls'
 
 TEMPLATES = [
